@@ -15,9 +15,7 @@ limitations under the License.
 */
 package main
 
-import (
-	"github.com/kaji2002/notion_minutes_tool/cmd"
-)
+import "github.com/kaji2002/notion_minutes_tool/cmd"
 
 func main() {
 	cmd.Execute()
